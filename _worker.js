@@ -22,6 +22,7 @@ const ALLOWED_HOSTS = [
   'raw.githubusercontent.com',
   'gist.github.com',
   'gist.githubusercontent.com'
+  'gitee.com'
 ];
 
 // RESTRICT_PATHS: 控制是否限制 GitHub 和 Docker 请求的路径。
