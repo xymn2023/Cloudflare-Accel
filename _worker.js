@@ -21,7 +21,7 @@ const ALLOWED_HOSTS = [
   'api.github.com',
   'raw.githubusercontent.com',
   'gist.github.com',
-  'gist.githubusercontent.com'
+  'gist.githubusercontent.com',
   'gitee.com'
 ];
 
