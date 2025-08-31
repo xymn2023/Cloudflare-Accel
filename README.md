@@ -2,6 +2,8 @@
 基于 Cloudflare Workers 的 GitHub 和 Docker 加速服务，自动生成加速链接与命令。
 # Cloudflare-Accel
 
+Demo：https://cffast.panell.top/
+
 是一个基于 Cloudflare Workers 或 Cloudflare Pages 的反向代理服务，旨在加速 GitHub 文件下载和 Docker 镜像拉取。通过 Cloudflare 的全球边缘网络，提供更快、更稳定的下载体验。项目提供直观的网页界面，支持将 GitHub 文件链接和 Docker 镜像地址转换为加速链接或命令，并自动复制到剪贴板。界面针对 PC 和移动端（iPhone、Android）进行了优化，加速链接支持换行，复制功能兼容主流浏览器，GitHub 请求通过反向代理实现加速。
 
 ## 目录
